@@ -1,3 +1,8 @@
+'''
+Takes a message string and converts
+each character to corresponding value 
+of letter (position in alphabet with A = 0)
+'''
 Alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
             'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
             'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X',
