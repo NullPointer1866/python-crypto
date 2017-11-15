@@ -1,3 +1,6 @@
+'''
+	Computes simple affine cipher ( (a*x + b) % 26 ) 
+'''
 Alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
             'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
             'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X',
