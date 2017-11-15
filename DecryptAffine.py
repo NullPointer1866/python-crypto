@@ -1,3 +1,8 @@
+'''
+Decrypts messages encoded with an affine cipher.
+Uses brute force, outputs all possible combinations
+to DecryptAffine.txt in current working directory
+'''
 Alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
             'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
             'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X',
