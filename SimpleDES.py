@@ -1,3 +1,9 @@
+'''
+A collection of functions for computing the Simple DES algorithm
+as laid out in Introduction to Cryptography with Coding Theory
+by Wade Trappe and Lawrence C. Washington (Chp 4 - DES)
+Exercise_1_4_10.py shows these functions in use
+'''
 s1 = {'0': {"000": "101", "001": "010", "010": "001", "011": "110",
             "100": "011", "101": "100", "110": "111", "111": "000"},
       '1': {"000": "001", "001": "100", "010": "110", "011": "010",
