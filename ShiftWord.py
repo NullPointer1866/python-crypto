@@ -1,3 +1,7 @@
+'''
+Computes all 26 possible Ceaser Ciphers for a given plaintext.
+Loops forever until given input 'E' and then quits.
+'''
 Alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
             'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
             'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X',
