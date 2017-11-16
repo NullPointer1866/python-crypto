@@ -1,3 +1,7 @@
+'''
+Implementation of the SimpleDES.py library
+used for 1 homework assignment
+'''
 from random import randrange
 import SimpleDES
 
