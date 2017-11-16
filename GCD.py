@@ -1,3 +1,6 @@
+'''
+Computes the GCD of two numbers
+'''
 a = int(input("Enter value for x: "))
 b = int(input("Enter value for y: "))
 
